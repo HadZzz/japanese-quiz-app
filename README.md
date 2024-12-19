@@ -14,9 +14,9 @@ A quiz application to help users learn Japanese. This app is built using Expo an
 
 ## Screenshots
 
-![Home Screen](assets/images/WhatsApp Image 2024-12-19 at 12.25.08(6).jpeg)
-![Quiz Screen](assets/images/WhatsApp Image 2024-12-19 at 12.25.08(1).jpeg)
-![Results Screen](assets/images/WhatsApp Image 2024-12-19 at 12.25.08(2).jpeg)
+![Home Screen](assets/images/WhatsApp%20Image%202024-12-19%20at%2012.25.08(6).jpeg)
+![Quiz Screen](assets/images/WhatsApp%20Image%202024-12-19%20at%2012.25.08(1).jpeg)
+![Results Screen](assets/images/WhatsApp%20Image%202024-12-19%20at%2012.25.08(2).jpeg)
 
 ## Getting Started
 
