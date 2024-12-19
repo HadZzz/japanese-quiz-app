@@ -1,50 +1,39 @@
-# Welcome to your Expo app 👋
+# Japanese Quiz App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Banner](assets/images/banner-image.png)
 
-## Get started
+A quiz application to help users learn Japanese. This app is built using Expo and is designed to be user-friendly and educational.
 
-1. Install dependencies
+## Features
+
+- 🎯 Multiple choice questions to test your Japanese knowledge.
+- 📚 Categories covering different aspects of the Japanese language.
+- 📈 Progress tracking to monitor your learning journey.
+- 🌐 User-friendly interface with a clean design.
+- 🌏 Supports both English and Japanese languages.
+
+## Screenshots
+
+![Home Screen](assets/images/WhatsApp Image 2024-12-19 at 12.25.08(6).jpeg)
+![Quiz Screen](assets/images/WhatsApp Image 2024-12-19 at 12.25.08(1).jpeg)
+![Results Screen](assets/images/WhatsApp Image 2024-12-19 at 12.25.08(2).jpeg)
+
+## Getting Started
+
+Follow these instructions to set up and run the project on your local machine.
+
+### Prerequisites
+
+Ensure you have the following installed on your machine:
+
+- Node.js
+- npm (Node Package Manager)
+- Expo CLI
+
+### Installation
+
+1. Clone the repository:
 
    ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   git clone https://github.com/HadZzz/japanese-quiz-app.git
+   cd japanese-quiz-app
